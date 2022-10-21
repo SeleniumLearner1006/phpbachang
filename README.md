@@ -1,4 +1,6 @@
 # PHP训练靶场，一款集合了常见的PHP漏洞的练习平台
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSeleniumLearner1006%2Fphpbachang.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSeleniumLearner1006%2Fphpbachang?ref=badge_shield)
+
 
 ![](./img/1.png)
 
@@ -47,3 +49,6 @@
 # 如有其他问题可联系我处理
 
 ## 邮箱： admin@360bug.net
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSeleniumLearner1006%2Fphpbachang.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSeleniumLearner1006%2Fphpbachang?ref=badge_large)
